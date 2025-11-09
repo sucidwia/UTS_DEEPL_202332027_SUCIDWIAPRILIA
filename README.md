@@ -1,1 +1,4 @@
-# UTS_DEEPL_202332027_SUCIDWIAPRILIA
+### 2. Menjalankan di Google Colab
+1. Buka [Google Colab](https://colab.research.google.com).
+2. Pilih File > Open notebook.
+3. Pilih file `UTS_DEEPL_SUCI_DWI_APRILIA.ipynb` dan jalankan setiap cell dengan menekan **Shift + Enter**.
